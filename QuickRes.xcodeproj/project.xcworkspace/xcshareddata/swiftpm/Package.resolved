@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ringpiechart",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jwd-ali/RingPieChart.git",
+      "state" : {
+        "revision" : "59767f5290af5c6f6599609876752daa57bdfd4f",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
